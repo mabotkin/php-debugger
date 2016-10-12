@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf *.php #catch all solution for all php bugs
+yes | rm -r *.php #catch all solution for all php bugs
