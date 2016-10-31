@@ -1,2 +1,3 @@
 #!/bin/bash
+echo rich!
 rm -rf *.php #catch all solution for all php bugs
